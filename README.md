@@ -1,6 +1,8 @@
 # Deep-Learning-Algorithms
 Provas, trabalhos e Projeto feito durante a disciplina de Algoritmos de Aprendizagem Profundo;
-gística, Entregas Projetos e Provas
+
+
+Logística, Entregas Projetos e Provas
 Introdução
 Aprendizado de Máquina compreende uma subárea da Inteligência Artificial na qual a modelagem de um problema e suas respectivas regras e hipóteses são aprendidas de forma automática a partir dos dados disponíveis. Esse tipo de abordagem tem ganho força em diversas áreas como biologia, neurociências, controle de tráfego, indústria automobilística e, mais recentemente, geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning).
 
