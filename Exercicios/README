@@ -1,1 +1,7 @@
-Exercicios não avaliados
+Exercicio não avaliado
+Pessoal, o seguinte exercício é bem simples. Você deve modificar o notebook  Denoising_autoencoders.ipynb (código Keras, veja em https://github.com/rassuncao/DL2021-Unsupervised/blob/main/README.md).
+
+Neste notebook colocamos um ruído não-estruturado, somando um ruído gaussiano N(0, 0.25) em cada pixel. A ideia do exercício é que você crie um ruído estruturado imitando uma marca dágua. Escolha uma ou mais posições aleatórias na imagem. Em cada uma dessas posições (x,y), altere os pixels (x+i, y+j) onde 0 <= i <= 5 e 0 <= j <= 3. Os pixels alterados devem exibir algo tal como as suas iniciais ou algo similar (altere alguns dos pixels no retângulo para terem o valor 255 (ou valor 1, se já padronizado).  
+
+Verifique se o denoising autoencoder consegue limpar as imagens das "marcas d'água". Entregar-upload o seu notebook ipynb no moodle até TERÇA-FEIRA da SEMANA QUE VEM (14/12, até 23h:59m)
+
